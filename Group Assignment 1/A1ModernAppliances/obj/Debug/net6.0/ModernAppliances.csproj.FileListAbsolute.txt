@@ -1,0 +1,30 @@
+C:\Users\Weird\Desktop\ModernAppliances\A1ModernAppliances\bin\Debug\net6.0\ModernAppliances.exe
+C:\Users\Weird\Desktop\ModernAppliances\A1ModernAppliances\bin\Debug\net6.0\appliances.txt
+C:\Users\Weird\Desktop\ModernAppliances\A1ModernAppliances\bin\Debug\net6.0\ModernAppliances.deps.json
+C:\Users\Weird\Desktop\ModernAppliances\A1ModernAppliances\bin\Debug\net6.0\ModernAppliances.runtimeconfig.json
+C:\Users\Weird\Desktop\ModernAppliances\A1ModernAppliances\bin\Debug\net6.0\ModernAppliances.dll
+C:\Users\Weird\Desktop\ModernAppliances\A1ModernAppliances\bin\Debug\net6.0\ModernAppliances.pdb
+C:\Users\Weird\Desktop\ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Weird\Desktop\ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.AssemblyInfoInputs.cache
+C:\Users\Weird\Desktop\ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.AssemblyInfo.cs
+C:\Users\Weird\Desktop\ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.csproj.CoreCompileInputs.cache
+C:\Users\Weird\Desktop\ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.dll
+C:\Users\Weird\Desktop\ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\refint\ModernAppliances.dll
+C:\Users\Weird\Desktop\ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.pdb
+C:\Users\Weird\Desktop\ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.genruntimeconfig.cache
+C:\Users\Weird\Desktop\ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ref\ModernAppliances.dll
+C:\Users\Weird\Desktop\Group Assignment 1\A1ModernAppliances\bin\Debug\net6.0\ModernAppliances.exe
+C:\Users\Weird\Desktop\Group Assignment 1\A1ModernAppliances\bin\Debug\net6.0\appliances.txt
+C:\Users\Weird\Desktop\Group Assignment 1\A1ModernAppliances\bin\Debug\net6.0\ModernAppliances.deps.json
+C:\Users\Weird\Desktop\Group Assignment 1\A1ModernAppliances\bin\Debug\net6.0\ModernAppliances.runtimeconfig.json
+C:\Users\Weird\Desktop\Group Assignment 1\A1ModernAppliances\bin\Debug\net6.0\ModernAppliances.dll
+C:\Users\Weird\Desktop\Group Assignment 1\A1ModernAppliances\bin\Debug\net6.0\ModernAppliances.pdb
+C:\Users\Weird\Desktop\Group Assignment 1\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Weird\Desktop\Group Assignment 1\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.AssemblyInfoInputs.cache
+C:\Users\Weird\Desktop\Group Assignment 1\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.AssemblyInfo.cs
+C:\Users\Weird\Desktop\Group Assignment 1\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.csproj.CoreCompileInputs.cache
+C:\Users\Weird\Desktop\Group Assignment 1\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.dll
+C:\Users\Weird\Desktop\Group Assignment 1\A1ModernAppliances\obj\Debug\net6.0\refint\ModernAppliances.dll
+C:\Users\Weird\Desktop\Group Assignment 1\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.pdb
+C:\Users\Weird\Desktop\Group Assignment 1\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.genruntimeconfig.cache
+C:\Users\Weird\Desktop\Group Assignment 1\A1ModernAppliances\obj\Debug\net6.0\ref\ModernAppliances.dll
